@@ -5,7 +5,7 @@ I'm Julen Ferro, a passionate Industrial Eelctrical Engineer, with a wide Data S
 ## About Me 🌟
 
 - 🚀 I'm currently working on ePower - Ferrotek
-- 📫 Let's connect: [https://www.linkedin.com/in/julen-ferro/]
+- 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I love speedcubing
 
