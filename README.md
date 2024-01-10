@@ -1,9 +1,13 @@
 ### Hi there 👋
 
-**ferriitoo/ferriitoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Your Name], a passionate developer from [Your Location]. 😊
 
-Here are some ideas to get you started:
+## About Me 🌟
 
+- 🚀 I'm currently working on [Your Current Project]
+- 🌱 Learning and exploring new technologies is my passion
+- 💡 I enjoy solving problems and building cool things
+- 📫 Let's connect: [Your Email] or [Your LinkedIn]
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,17 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
-# Hi there! 👋
-
-I'm [Your Name], a passionate developer from [Your Location]. 😊
-
-## About Me 🌟
-
-- 🚀 I'm currently working on [Your Current Project]
-- 🌱 Learning and exploring new technologies is my passion
-- 💡 I enjoy solving problems and building cool things
-- 📫 Let's connect: [Your Email] or [Your LinkedIn]
 
 ## Technologies & Tools 🛠️
 
@@ -35,13 +28,14 @@ I'm [Your Name], a passionate developer from [Your Location]. 😊
 
 ## GitHub Stats 📊
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferriitoo&show_icons=true&theme=radical)
 
 ## Let's Connect 🤝
 
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 - [Twitter](https://twitter.com/yourtwitter)
 - [Portfolio](https://yourportfolio.com)
+
 
 Feel free to explore my repositories and don't hesitate to reach out! 🚀
 
