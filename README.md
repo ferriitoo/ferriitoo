@@ -38,9 +38,9 @@ I'm Julen Ferro, a passionate Industrial Eelctrical Engineer, with a wide Data S
 - **Spanish:** Native
 - **Basque:** Native
 - **English:** C2 – Advanced
-- **French:** DALF C1 - Advanced
+- **French:** DALF C2 - Advanced
 - **Mandarin Chinese:** HSK2 - A2 - Beginner
-- 
+  
 ## GitHub Stats 📊
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferriitoo&show_icons=true&theme=radical)
@@ -49,7 +49,7 @@ I'm Julen Ferro, a passionate Industrial Eelctrical Engineer, with a wide Data S
 
 - [LinkedIn](https://www.linkedin.com/in/yourlinkedin)
 - [Twitter](https://twitter.com/yourtwitter)
-- [Portfolio](https://yourportfolio.com)
+- [Portfolio - DataCamp]([https://yourportfolio.com](https://www.datacamp.com/portfolio/ferrojulen))
 
 
 Feel free to explore my repositories and don't hesitate to reach out! 🚀
