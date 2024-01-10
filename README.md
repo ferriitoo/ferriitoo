@@ -75,24 +75,12 @@ I'm Julen Ferro, a passionate Industrial Eelctrical Engineer, with a wide Data S
 - **Visualization Tools:** 
   ![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
   ![PowerBI](https://img.shields.io/badge/-PowerBI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-  ![Mashup](https://img.shields.io/badge/-Mashup-4
+  ![Mashup](https://img.shields.io/badge/-Mashup-4D4D4D?style=flat-square)
+  ![Tableau](https://img.shields.io/badge/-Tableau-003366?style=flat-square&logo=tableau&logoColor=white)
 
-
-## Technologies & Skills 🛠️
-
-- **Programming Languages:** Python, R, Julia, C, SQL
-- **Data Science:** PySpark, Pandas, NumPy, scikit-learn, Matplotlib, OpenCV, Plotly
-- **Machine Learning:** TensorFlow, Keras, PyTorch
-- **Web Development:** HTML, CSS, JavaScript, React, Node.js, Rest API
-- **Backend Development:** Flask, Django, Sockets
-- **Cloud Platforms:** AWS Cloud Practitioner (Kendra, OCR Textract, S3, RDS, EC2), Azure (ChatGPT Fine-tuning, Cognitive Search)
-- **Natural Language Processing (NLP):** LangChain, Chatbots, RAG, Fine-tuned & deployed (Docker & Kubernetes) in GPUs
-- **Open Source LLMs:** LLAMA, Falcon
-- **Frontend Design:** GitHub, GitLab (CI/CD), ETL
-- **Big Data Technologies:** Hadoop, FAISS, Chroma vector databases
-- **Embeddings:** Open AI embeddings, Hugging Face
-- **Visualization Tools:** Excel, PowerBI, Mashup, Tableau
-- **Project Management:** PMP, Certified Yacht-Offshore Captain 
+- **Project Management:** 
+  ![PMP](https://img.shields.io/badge/-PMP-5D5C5C?style=flat-square&logo=pmp&logoColor=white)
+  ![Certified Yacht-Offshore Captain](https://img.shields.io/badge/-Certified_Yacht_Offshore_Captain-333333?style=flat-square)
 
 ## Language Proficiency 🌐
 
