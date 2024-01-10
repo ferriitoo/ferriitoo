@@ -1,22 +1,13 @@
 ### Hi there 👋
 
-I'm [Your Name], a passionate developer from [Your Location]. 😊
+I'm Julen Ferro, a passionate Industrial Eelctrical Engineer, with a wide Data Science experience in the United States as a Fulbright Scholar. 😊
 
 ## About Me 🌟
 
-- 🚀 I'm currently working on [Your Current Project]
-- 🌱 Learning and exploring new technologies is my passion
-- 💡 I enjoy solving problems and building cool things
-- 📫 Let's connect: [Your Email] or [Your LinkedIn]
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🚀 I'm currently working on ePower - Ferrotek
+- 📫 Let's connect: [https://www.linkedin.com/in/julen-ferro/]
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I love speedcubing
 
 ## Technologies & Tools 🛠️
 
@@ -26,6 +17,30 @@ I'm [Your Name], a passionate developer from [Your Location]. 😊
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+## Technologies & Skills 🛠️
+
+- **Programming Languages:** Python, R, Julia, C, SQL
+- **Data Science:** PySpark, Pandas, NumPy, scikit-learn, Matplotlib, OpenCV, Plotly
+- **Machine Learning:** TensorFlow, Keras, PyTorch
+- **Web Development:** HTML, CSS, JavaScript, React, Node.js, Rest API
+- **Backend Development:** Flask, Django, Sockets
+- **Cloud Platforms:** AWS Cloud Practitioner (Kendra, OCR Textract, S3, RDS, EC2), Azure (ChatGPT Fine-tuning, Cognitive Search)
+- **Natural Language Processing (NLP):** LangChain, Chatbots, RAG, Fine-tuned & deployed (Docker & Kubernetes) in GPUs
+- **Open Source LLMs:** LLAMA, Falcon
+- **Frontend Design:** GitHub, GitLab (CI/CD), ETL
+- **Big Data Technologies:** Hadoop, FAISS, Chroma vector databases
+- **Embeddings:** Open AI embeddings, Hugging Face
+- **Visualization Tools:** Excel, PowerBI, Mashup, Tableau
+- **Project Management:** PMP, Certified Yacht-Offshore Captain 
+
+## Language Proficiency 🌐
+
+- **Spanish:** Native
+- **Basque:** Native
+- **English:** C2 – Advanced
+- **French:** DALF C1 - Advanced
+- **Mandarin Chinese:** HSK2 - A2 - Beginner
+- 
 ## GitHub Stats 📊
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ferriitoo&show_icons=true&theme=radical)
